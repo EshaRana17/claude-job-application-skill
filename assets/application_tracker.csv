@@ -1,0 +1,2 @@
+company,role,job_id,posting_url,location,work_mode,salary_range_posted,source,date_found,date_applied,resume_version,cover_letter_sent,referral_contact,recruiter_contact,status,fit_score,stage_dates,next_follow_up,follow_up_count,interview_notes,outcome,notes
+Example Co,Data Analyst,DA-1042,https://example.com/jobs/da-1042,"Austin, TX",Hybrid,$70k-$85k,Company site,2026-11-01,2026-11-03,DataAnalyst-ExampleCo-v1,Yes,,[Recruiter name],Applied,72,Applied 2026-11-03,2026-11-14,0,,,Delete this example row before use

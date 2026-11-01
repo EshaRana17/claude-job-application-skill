@@ -1,0 +1,7 @@
+{
+  "name": "job-application",
+  "description": "Job application copilot skill: job fit analysis, ATS-friendly tailored resume, cover letter, recruiter and referral outreach, interview prep pack and application tracker. Instructions only; never fabricates experience.",
+  "type": "skill",
+  "network": [],
+  "env": []
+}
