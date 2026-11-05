@@ -101,7 +101,7 @@ This skill follows the open Agent Skills specification at [agentskills.io](https
 - **No scripts.** The skill contains only Markdown, a CSV file, a JSON manifest and a license. Nothing is executed.
 - **No network access.** The skill does not fetch URLs or call APIs. `agent.json` declares `"network": []` and `"env": []`.
 - **No secrets.** It never asks for passwords, ID documents or bank details.
-- **Scanned on AgenticMart.** This skill is scanned and listed on [AgenticMart](https://agenticmart.vercel.app/verified).
+- **Scanned on AgenticMart.** This skill is scanned and listed on [AgenticMart](https://agenticmart.org/verified).
 
 Your resume and job data stay in your conversation with the agent. Review every document before you send it.
 
